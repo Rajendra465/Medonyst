@@ -96,11 +96,6 @@ kafka-python==1.4.7
 Keras==2.3.1
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
-Kivy==1.11.1
-kivy-deps.glew==0.2.0
-kivy-deps.sdl2==0.2.0
-Kivy-Garden==0.1.4
-kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
 lightgbm==2.3.1
 lxml==4.5.1
