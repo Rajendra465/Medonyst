@@ -106,10 +106,7 @@ def test(data_train, item):
     return(resultt1, resultt2)
 
 
-@app.get("/")
-async def app():
-    return({"message": "Working"})
-      
+
 
 
 @app.post("/predict/")
