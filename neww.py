@@ -2,7 +2,7 @@ import datetime
 import pandas as pd
 import numpy as np
 import sklearn as sks
-import nltk
+#import nltk
 from datetime import timedelta
 from datetime import datetime , date
 import string
@@ -104,7 +104,6 @@ def test(data_train, item):
     #print("AMAL2" , resultt2)
     #print("AMAL1" , resultt1)
     return(resultt1, resultt2)
-
 
 
 
