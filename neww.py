@@ -1,7 +1,7 @@
 import datetime
 import pandas as pd
 import numpy as np
-import sklearn as sks
+#import sklearn as sks
 #import nltk
 from datetime import timedelta
 from datetime import datetime , date
